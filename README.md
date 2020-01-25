@@ -13,3 +13,8 @@ Any screenshots used elsewhere require link back to blog address
 https://longislandnewtechnology.blogspot.com
 ~or~
 "https://longislandnewtechnology.blogspot.com/2020/01/welcome-to-long-island-new-technology.html"
+
+
+COMING SOON
+
+- lists of commands for each lab.
